@@ -29,3 +29,9 @@ This project allows you to get a taste of Kotlin. Practice working with function
 Get comfortable with the basics of coding: loops, conditions, and data input and output.
 
 [My solution](https://github.com/intulion/hyperskill/blob/master/UnitConverter.kt)
+
+## [Project: Smart Calculator](https://hyperskill.org/projects/88)
+
+Apart from writing a useful program (everyone uses calculators!), you will learn a lot about arrays, stacks, strings, and queues. You will also get closer experience with 2 important data structures: the stack and the queue. You will also gain firsthand experience with the BigInteger class.
+
+[My solution](https://github.com/intulion/hyperskill/blob/master/SmartCalculator.kt)
