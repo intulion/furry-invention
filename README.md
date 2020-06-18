@@ -6,6 +6,12 @@ Become confident with the basics of coding: console input and output, loops, and
 
 [My solution](https://github.com/intulion/hyperskill/blob/master/ParkingLot.kt)
 
+## [Project: Flashcards](https://hyperskill.org/projects/83)
+
+In this project, you will learn to work with files and call them from the command line.
+
+[My solution](https://github.com/intulion/hyperskill/blob/master/Flashcards.kt)
+
 ## [Project: ASCII Text Signature](https://hyperskill.org/projects/71)
 
 You will learn to use the famous triad: for, while, and when, and also take a glance at functions and files.
