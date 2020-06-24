@@ -41,3 +41,10 @@ Get comfortable with the basics of coding: loops, conditions, and data input and
 Apart from writing a useful program (everyone uses calculators!), you will learn a lot about arrays, stacks, strings, and queues. You will also get closer experience with 2 important data structures: the stack and the queue. You will also gain firsthand experience with the BigInteger class.
 
 [My solution](https://github.com/intulion/hyperskill/blob/master/SmartCalculator.kt)
+
+
+## [Project: Sorting Tool](https://hyperskill.org/projects/106)
+
+Practice a whole variety of skills: get familiar with Collections and learn to work with files, arguments and the command line.
+
+[My solution](https://github.com/intulion/hyperskill/blob/master/SortingTool.kt)
